@@ -16,7 +16,7 @@ This project simulates the LC-3 architecture including registers, memory, instru
 
 ## 📂 Project Structure
 ├── lc3vm.c       # Source code for LC-3 Virtual Machine  
-├── hello.asm     # Assembly file which I assembled using an online LC-3 assembler
+├── hello.asm     # Assembly file which I assembled using an online LC-3 assembler  
 └── hello.obj     # Sample program that prints "Hello World!"
 
 ## 🧠 How It Works
